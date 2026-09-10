@@ -1,22 +1,16 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Programming:profiling",
+    "slug": "programming-profiling",
+    "description": "Introduces the idea of profiling a piece of code, including some conceptual ideas and uses.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming"
     ],
-    "duration": 0,
+    "duration": 4,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
